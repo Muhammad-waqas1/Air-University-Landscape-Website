@@ -1,2 +1,3 @@
-# Air-University-Landscape-Website
-Air University Landscape Website Template
+**# Air University Landscape Website Template**
+
+This repository hosts a versatile university website template with a captivating landscape theme. The template features a user-friendly navigation bar, distinct sections for various university aspects, easily replaceable image spaces, customizable logo integration, and a copyright disclaimer in the footer. Ideal for universities aiming for both aesthetic appeal and functionality, this template allows effortless customization to align with your institution's unique identity and legal requirements. Elevate your university's online presence with the "Air-University-Landscape-Website" template.
